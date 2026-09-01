@@ -1,0 +1,59 @@
+about:
+  description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+  license: MIT
+  homepage: https://browser-use.com
+  head: f0fe103
+  archived: false
+  latestVersion: 0.13.8
+  collectedAt: 2026-09-01T02:36:25Z
+timeline:
+  created: 2024-10-31
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-16
+popularity:
+  star: 111873
+  watcher: 464
+  fork: 12285
+  release: 135
+  contributor: 349
+  pullRequest: 1655
+  issue: 1627
+language:
+  Python: 3573282
+  Shell: 11350
+  Dockerfile: 11201
+  HTML: 7953
+totalLine: 3603786
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 45
+    openPR: 148
+    closedIssue: 11
+    openIssue: 39
+    commit: 136
+  last90d:
+    since: 2026-06-03
+    release: 9
+    mergedPR: 138
+    openPR: 247
+    closedIssue: 22
+    openIssue: 70
+    commit: 510
+  last180d:
+    since: 2026-03-05
+    release: 17
+    mergedPR: 256
+    openPR: 263
+    closedIssue: 118
+    openIssue: 111
+    commit: 1434
+  last360d:
+    since: 2025-09-06
+    release: 55
+    mergedPR: 794
+    openPR: 265
+    closedIssue: 413
+    openIssue: 115
+    commit: 3923
