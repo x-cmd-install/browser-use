@@ -5,18 +5,18 @@ about:
   head: 2b1f9d3
   archived: false
   latestVersion: "0.13.10"
-  collectedAt: 2026-09-08T03:17:09Z
+  collectedAt: 2026-09-08T06:11:55Z
 timeline:
   created: 2024-10-31
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 112982
+  star: 112987
   watcher: 467
-  fork: 12462
+  fork: 12465
   release: 137
   contributor: 358
-  pullRequest: 3644
+  pullRequest: 3646
   issue: 1646
 language:
   Python: 3626657
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-09
     release: 3
     mergedPR: 55
-    openPR: 136
+    openPR: 138
     closedIssue: 16
     openIssue: 33
     commit: 196
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-10
     release: 7
     mergedPR: 105
-    openPR: 247
+    openPR: 249
     closedIssue: 25
     openIssue: 57
     commit: 393
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-10
     release: 10
     mergedPR: 146
-    openPR: 265
+    openPR: 267
     closedIssue: 31
     openIssue: 76
     commit: 540
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-12
     release: 19
     mergedPR: 263
-    openPR: 275
+    openPR: 277
     closedIssue: 123
     openIssue: 114
     commit: 1454
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-13
     release: 53
     mergedPR: 768
-    openPR: 280
+    openPR: 282
     closedIssue: 383
     openIssue: 120
     commit: 3852
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-18
     release: 100
     mergedPR: 1950
-    openPR: 280
+    openPR: 282
     closedIssue: 1526
     openIssue: 120
     commit: 10258
 total:
   release: 137
   mergedPR: 1951
-  openPR: 280
+  openPR: 282
   closedIssue: 1526
   openIssue: 120
   commit: 10258
 ---
 path: /home/runner/.x-repo/github.com/browser-use/browser-use
-collectedAt: 2026-09-08T03:17:15Z
+collectedAt: 2026-09-08T06:12:00Z
 loc:
   Python:
     code: 83945
