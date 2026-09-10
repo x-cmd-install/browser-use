@@ -43,13 +43,13 @@
   "body": "## Browser Use 0.13.10\n\n- Upgrade Browser Harness to 0.1.13.\n- Exact-pin all declared runtime, optional, development, and build dependencies.\n- Upgrade and migrate to MCP Python SDK 2.1.1.\n- Add pydantic-settings 2.15.0 as an explicit runtime dependency.\n- Pin Pydantic 2.13.5 and Hatchling 1.32.0.\n- Upgrade pypdf to 6.16.2, resolving the three current pypdf Dependabot advisories.\n- Report unknown MCP tool calls as application errors instead of successful results.\n\nValidation includes the full GitHub test matrix, model adapters, MCP stdio handshakes, cross-platform wheel installation, focused PDF tests, CodeQL, GitGuardian, and an installed-runtime vulnerability audit.",
   "reactions": {
     "url": "https://api.github.com/repos/browser-use/browser-use/releases/382459855/reactions",
-    "total_count": 7,
-    "+1": 2,
+    "total_count": 11,
+    "+1": 3,
     "-1": 0,
-    "laugh": 1,
-    "hooray": 3,
+    "laugh": 2,
+    "hooray": 4,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }

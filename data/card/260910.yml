@@ -7,7 +7,7 @@ about:
   latestVersion: "0.13.10"
   latestRelease: "0.13.10"
   latestPrerelease: "0.6.0rc1"
-  collectedAt: 2026-09-10T18:14:05Z
+  collectedAt: 2026-09-10T23:44:42Z
 timeline:
   created: 2024-10-31
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2025-08-19
 popularity:
-  star: 114064
+  star: 114079
   watcher: 469
-  fork: 12532
+  fork: 12537
   release: 137
   contributor: 358
-  pullRequest: 3683
+  pullRequest: 3682
   issue: 1654
 language:
   Python: 3626657
@@ -86,7 +86,7 @@ total:
   commit: 10279
 ---
 path: /home/runner/.x-repo/github.com/browser-use/browser-use
-collectedAt: 2026-09-10T18:14:11Z
+collectedAt: 2026-09-10T23:44:50Z
 loc:
   Python:
     code: 83945
