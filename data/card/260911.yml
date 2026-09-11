@@ -7,7 +7,7 @@ about:
   latestVersion: "0.13.10"
   latestRelease: "0.13.10"
   latestPrerelease: "0.6.0rc1"
-  collectedAt: 2026-09-11T06:23:03Z
+  collectedAt: 2026-09-11T18:25:17Z
 timeline:
   created: 2024-10-31
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2025-08-19
 popularity:
-  star: 114127
+  star: 114225
   watcher: 469
-  fork: 12541
+  fork: 12556
   release: 137
   contributor: 358
   pullRequest: 3682
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-12
     release: 3
     mergedPR: 61
-    openPR: 142
+    openPR: 141
     closedIssue: 17
     openIssue: 38
     commit: 217
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-13
     release: 6
     mergedPR: 108
-    openPR: 255
+    openPR: 240
     closedIssue: 26
     openIssue: 62
     commit: 414
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-13
     release: 8
     mergedPR: 150
-    openPR: 278
+    openPR: 263
     closedIssue: 30
     openIssue: 82
     commit: 561
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-15
     release: 18
     mergedPR: 271
-    openPR: 289
+    openPR: 274
     closedIssue: 119
     openIssue: 121
     commit: 1475
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-16
     release: 53
     mergedPR: 769
-    openPR: 294
+    openPR: 279
     closedIssue: 370
     openIssue: 127
     commit: 3873
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-21
     release: 100
     mergedPR: 1959
-    openPR: 294
+    openPR: 279
     closedIssue: 1527
     openIssue: 127
     commit: 10279
 total:
   release: 137
   mergedPR: 1960
-  openPR: 294
+  openPR: 279
   closedIssue: 1527
   openIssue: 127
   commit: 10279
 ---
 path: /home/runner/.x-repo/github.com/browser-use/browser-use
-collectedAt: 2026-09-11T06:23:10Z
+collectedAt: 2026-09-11T18:25:24Z
 loc:
   Python:
     code: 83945
