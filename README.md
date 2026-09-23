@@ -4,7 +4,7 @@
 
 Agents that use the browser.
 
-[![x-cmd/install — browser-use Code Quality Monitoring Repo Card](https://repo.x-cmd.io/browser-use.svg)](https://x-cmd.com/install/browser-use)
+[![x-cmd/install — browser-use Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/browser-use.svg)](https://x-cmd.com/install/browser-use)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **84,853** lines of code across **415** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 115,829 · **Forks**: 12,745 · **Open issues**: 1,672 · **Contributors**: 359
+- **Stars**: 116,002 · **Forks**: 12,766 · **Open issues**: 1,674 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 1963 · **Open PRs**: 334 · **Closed issues**: 1528 · **Open issues**: 144 · **Commits**: 10295
+- **Releases**: 137 · **Merged PRs**: 1963 · **Open PRs**: 341 · **Closed issues**: 1528 · **Open issues**: 146 · **Commits**: 10295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 49 | 185 | 16 | 44 | 159 |
-| last60d | 2026-07-24 | 4 | 82 | 283 | 26 | 73 | 339 |
-| 90d | 2026-06-24 | 8 | 152 | 317 | 31 | 93 | 559 |
-| last180d | 2026-03-26 | 15 | 236 | 329 | 92 | 137 | 1294 |
-| 360d | 2025-09-27 | 51 | 734 | 334 | 351 | 144 | 3666 |
-| last720d | 2024-10-02 | 100 | 1962 | 334 | 1528 | 144 | 10295 |
+| 30d | 2026-08-24 | 2 | 49 | 189 | 14 | 46 | 159 |
+| last60d | 2026-07-25 | 4 | 82 | 290 | 25 | 75 | 339 |
+| 90d | 2026-06-25 | 8 | 152 | 323 | 31 | 95 | 559 |
+| last180d | 2026-03-27 | 15 | 236 | 336 | 90 | 138 | 1294 |
+| 360d | 2025-09-28 | 51 | 734 | 341 | 350 | 146 | 3666 |
+| last720d | 2024-10-03 | 100 | 1962 | 341 | 1528 | 146 | 10295 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for browser-use lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:40:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:53:16Z._
