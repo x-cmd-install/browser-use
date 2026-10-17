@@ -14,11 +14,11 @@ x install browser-use
 
 ## Code insight
 
-Total: **87,626** lines of code across **428** files in the top 5 languages.
+Total: **87,720** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 86,863 | 8,168 | 18,695 | 416 |
+| Python | 86,957 | 8,162 | 18,706 | 416 |
 | Sh | 254 | 65 | 51 | 4 |
 | Toml | 205 | 25 | 18 | 1 |
 | Dockerfile | 165 | 50 | 34 | 4 |
@@ -37,22 +37,22 @@ Total: **87,626** lines of code across **428** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 118,130 · **Forks**: 13,102 · **Open issues**: 1,716 · **Contributors**: 358
+- **Stars**: 118,237 · **Forks**: 13,111 · **Open issues**: 1,719 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1986 · **Open PRs**: 378 · **Closed issues**: 1537 · **Open issues**: 179 · **Commits**: 10383
+- **Releases**: 140 · **Merged PRs**: 1987 · **Open PRs**: 386 · **Closed issues**: 1537 · **Open issues**: 182 · **Commits**: 10386
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 23 | 167 | 2 | 51 | 84 |
-| last60d | 2026-08-17 | 5 | 79 | 325 | 19 | 92 | 301 |
-| 90d | 2026-07-18 | 7 | 123 | 355 | 29 | 114 | 497 |
-| last180d | 2026-04-19 | 17 | 234 | 374 | 71 | 161 | 1210 |
-| 360d | 2025-10-21 | 49 | 686 | 378 | 322 | 179 | 3349 |
-| last720d | 2024-10-26 | 100 | 1985 | 378 | 1537 | 179 | 10383 |
+| 30d | 2026-09-17 | 3 | 24 | 174 | 2 | 52 | 87 |
+| last60d | 2026-08-18 | 5 | 78 | 332 | 19 | 95 | 304 |
+| 90d | 2026-07-19 | 7 | 124 | 364 | 29 | 117 | 500 |
+| last180d | 2026-04-20 | 17 | 233 | 382 | 71 | 163 | 1213 |
+| 360d | 2025-10-22 | 49 | 680 | 386 | 317 | 182 | 3352 |
+| last720d | 2024-10-27 | 100 | 1986 | 386 | 1537 | 182 | 10386 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for browser-use lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:51:36Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:37:48Z._
