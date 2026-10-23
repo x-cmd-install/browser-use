@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/browser-use/browser-use/tarball/0.13.13",
   "zipball_url": "https://api.github.com/repos/browser-use/browser-use/zipball/0.13.13",
-  "body": "This release includes the OpenAI browser-tool driver and fixes two integration issues.\n\n- Handle temporary empty Cloud tab URLs during navigation.\n- Keep screenshots, crops, and pointer coordinates aligned on scaled displays.\n- Provide 18 default browser tools and six optional actions through Browser Use Actor.\n- Support local browsers, Browser Use Cloud, and borrowed browser sessions.\n\nInstall the `openai-tools` extra with OpenAI Python 3.31+. OpenAI 3.x uses httpx2; use its DefaultAsyncHttpxClient for custom HTTP clients.\n\nValidation: all eleven driver tests pass. Both new regression tests fail on the earlier implementation. Pre-commit, type checks, package builds, and GitHub tests pass. Live remote-browser and library smoke tests passed; broader evaluation results remain separate.\n\nThis release supersedes 0.13.12, whose PyPI publication was cancelled before approval.\n\nGuide: https://docs.browser-use.com/open-source/customize/integrations/openai\nDriver: https://github.com/browser-use/browser-use/pull/6086\nFixes: https://github.com/browser-use/browser-use/pull/6089\n"
+  "body": "This release includes the OpenAI browser-tool driver and fixes two integration issues.\n\n- Handle temporary empty Cloud tab URLs during navigation.\n- Keep screenshots, crops, and pointer coordinates aligned on scaled displays.\n- Provide 18 default browser tools and six optional actions through Browser Use Actor.\n- Support local browsers, Browser Use Cloud, and borrowed browser sessions.\n\nInstall the `openai-tools` extra with OpenAI Python 3.31+. OpenAI 3.x uses httpx2; use its DefaultAsyncHttpxClient for custom HTTP clients.\n\nValidation: all eleven driver tests pass. Both new regression tests fail on the earlier implementation. Pre-commit, type checks, package builds, and GitHub tests pass. Live remote-browser and library smoke tests passed; broader evaluation results remain separate.\n\nThis release supersedes 0.13.12, whose PyPI publication was cancelled before approval.\n\nGuide: https://docs.browser-use.com/open-source/customize/integrations/openai\nDriver: https://github.com/browser-use/browser-use/pull/6086\nFixes: https://github.com/browser-use/browser-use/pull/6089\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/browser-use/browser-use/releases/414382289/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
