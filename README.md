@@ -14,13 +14,13 @@ x install browser-use
 
 ## Code insight
 
-Total: **25,226** lines of code across **80** files in the top 5 languages.
+Total: **27,535** lines of code across **77** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 24,636 | 498 | 4,366 | 69 |
-| Sh | 254 | 65 | 51 | 4 |
-| Dockerfile | 165 | 52 | 34 | 4 |
+| Python | 27,009 | 554 | 4,770 | 70 |
+| Sh | 216 | 56 | 40 | 3 |
+| Dockerfile | 139 | 49 | 27 | 1 |
 | Toml | 111 | 9 | 17 | 1 |
 | Json | 56 | 0 | 0 | 2 |
 
@@ -32,34 +32,27 @@ Total: **25,226** lines of code across **80** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.0` (2026-11-10)
-- **Last commit**: 2026-11-10
-- **Assets in release**: 1
+- **Latest**: `1.0.2` (2026-11-11)
+- **Last commit**: 2026-11-11
 
 ## Popularity
 
-- **Stars**: 120,503 · **Forks**: 13,463 · **Open issues**: 1,743 · **Contributors**: 360
+- **Stars**: 120,655 · **Forks**: 13,484 · **Open issues**: 1,744 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 2007 · **Open PRs**: 434 · **Closed issues**: 1559 · **Open issues**: 184 · **Commits**: 10945
+- **Releases**: 148 · **Merged PRs**: 2010 · **Open PRs**: 433 · **Closed issues**: 1561 · **Open issues**: 183 · **Commits**: 10987
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 7 | 33 | 210 | 4 | 34 | 1045 |
-| last60d | 2026-09-11 | 8 | 46 | 367 | 4 | 85 | 1140 |
-| 90d | 2026-08-12 | 11 | 108 | 409 | 27 | 116 | 1363 |
-| last180d | 2026-05-14 | 22 | 240 | 431 | 76 | 151 | 2200 |
-| 360d | 2025-11-15 | 48 | 575 | 434 | 307 | 184 | 3670 |
-| last720d | 2024-11-20 | 100 | 1985 | 434 | 1547 | 184 | 10748 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [browser-use-1.0-vs-0.x-bench.png](https://github.com/browser-use/browser-use/releases/download/1.0.0/browser-use-1.0-vs-0.x-bench.png) | 142.4 KiB | `other` |
+| 30d | 2026-10-12 | 10 | 36 | 207 | 4 | 35 | 1120 |
+| last60d | 2026-09-12 | 11 | 47 | 367 | 4 | 86 | 1215 |
+| 90d | 2026-08-13 | 14 | 108 | 410 | 29 | 115 | 1438 |
+| last180d | 2026-05-15 | 25 | 243 | 430 | 78 | 150 | 2275 |
+| 360d | 2025-11-16 | 50 | 575 | 433 | 307 | 183 | 3745 |
+| last720d | 2024-11-21 | 100 | 1985 | 433 | 1548 | 183 | 10785 |
 
 ## Improve this data
 
@@ -70,4 +63,4 @@ Install metadata for browser-use lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:03:15Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:53:45Z._
