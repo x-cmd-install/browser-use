@@ -14,11 +14,11 @@ x install browser-use
 
 ## Code insight
 
-Total: **27,770** lines of code across **77** files in the top 5 languages.
+Total: **28,445** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 27,244 | 559 | 4,813 | 70 |
+| Python | 27,919 | 571 | 4,976 | 73 |
 | Sh | 216 | 56 | 40 | 3 |
 | Dockerfile | 139 | 49 | 27 | 1 |
 | Toml | 111 | 9 | 17 | 1 |
@@ -32,27 +32,27 @@ Total: **27,770** lines of code across **77** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.3` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Latest**: `1.0.5` (2026-11-14)
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 120,878 · **Forks**: 13,517 · **Open issues**: 1,744 · **Contributors**: 360
+- **Stars**: 120,973 · **Forks**: 13,530 · **Open issues**: 1,744 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 2012 · **Open PRs**: 410 · **Closed issues**: 1575 · **Open issues**: 169 · **Commits**: 11005
+- **Releases**: 153 · **Merged PRs**: 2018 · **Open PRs**: 408 · **Closed issues**: 1575 · **Open issues**: 169 · **Commits**: 11025
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 12 | 36 | 186 | 8 | 22 | 1154 |
-| last60d | 2026-09-14 | 13 | 49 | 341 | 11 | 77 | 1249 |
-| 90d | 2026-08-15 | 16 | 107 | 386 | 37 | 106 | 1472 |
-| last180d | 2026-05-17 | 27 | 244 | 407 | 88 | 139 | 2309 |
-| 360d | 2025-11-18 | 52 | 569 | 410 | 313 | 169 | 3779 |
-| last720d | 2024-11-23 | 100 | 1982 | 410 | 1560 | 169 | 10771 |
+| 30d | 2026-10-15 | 15 | 34 | 184 | 8 | 22 | 1188 |
+| last60d | 2026-09-15 | 16 | 55 | 336 | 11 | 71 | 1283 |
+| 90d | 2026-08-16 | 19 | 112 | 385 | 36 | 106 | 1506 |
+| last180d | 2026-05-18 | 30 | 244 | 405 | 88 | 137 | 2343 |
+| 360d | 2025-11-19 | 54 | 573 | 408 | 312 | 169 | 3813 |
+| last720d | 2024-11-24 | 100 | 1987 | 408 | 1559 | 169 | 10778 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for browser-use lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:36:27Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:25:11Z._
