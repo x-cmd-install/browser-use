@@ -32,27 +32,27 @@ Total: **30,055** lines of code across **82** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.8rc1` (2026-11-20)
-- **Last commit**: 2026-11-20
+- **Latest**: `1.0.8` (2026-11-22)
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 121,645 · **Forks**: 13,589 · **Open issues**: 1,755 · **Contributors**: 359
+- **Stars**: 121,706 · **Forks**: 13,599 · **Open issues**: 1,755 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 2033 · **Open PRs**: 417 · **Closed issues**: 1577 · **Open issues**: 178 · **Commits**: 11071
+- **Releases**: 157 · **Merged PRs**: 2034 · **Open PRs**: 415 · **Closed issues**: 1580 · **Open issues**: 175 · **Commits**: 11073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 16 | 36 | 170 | 7 | 30 | 1199 |
-| last60d | 2026-09-22 | 19 | 71 | 337 | 11 | 73 | 1350 |
-| 90d | 2026-08-23 | 21 | 120 | 396 | 32 | 113 | 1554 |
-| last180d | 2026-05-25 | 31 | 243 | 415 | 88 | 144 | 2365 |
-| 360d | 2025-11-26 | 57 | 560 | 417 | 308 | 178 | 3760 |
-| last720d | 2024-12-01 | 100 | 1991 | 417 | 1551 | 178 | 10730 |
+| 30d | 2026-10-23 | 17 | 37 | 170 | 6 | 29 | 1195 |
+| last60d | 2026-09-23 | 20 | 71 | 339 | 11 | 72 | 1345 |
+| 90d | 2026-08-24 | 22 | 121 | 394 | 33 | 110 | 1464 |
+| last180d | 2026-05-26 | 32 | 243 | 413 | 90 | 141 | 2361 |
+| 360d | 2025-11-27 | 58 | 559 | 415 | 311 | 175 | 3708 |
+| last720d | 2024-12-02 | 100 | 1991 | 415 | 1553 | 175 | 10718 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for browser-use lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:56:21Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:54:34Z._
